@@ -17,4 +17,4 @@ Use this as a demo for Shopify development interviews or internships.
 
 ---
 
-Built with ❤️ by Sravani Ravuri
+
