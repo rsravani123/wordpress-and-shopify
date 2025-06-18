@@ -18,4 +18,4 @@ For showcasing to potential employers and recruiters interested in WordPress/web
 
 ---
 
-Made with ❤️ by Sravani Ravuri
+
